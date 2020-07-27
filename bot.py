@@ -48,6 +48,7 @@ async def hlp(ctx):
 async def ping(ctx):
 	await ctx.send('pong')
 
+token = os.environ.get('TOKEN')
 		
 if __name__ == '__main__':
-	bot.run(config.TOKEN)
+	bot.run(token)
