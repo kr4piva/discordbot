@@ -1,5 +1,5 @@
 discord.py
 urllib3
-re
+re2
 os
 sys
