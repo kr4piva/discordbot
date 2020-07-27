@@ -1,5 +1,5 @@
 discord.py
 urllib3
-re2
+re101
 1OS
 Nal-sys
